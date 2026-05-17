@@ -1,5 +1,5 @@
 # Exercício 5
-import random as rd
+import random
 while True:
     n1 = random.randint(0, 10)
     n2 = random.randint(0, 10)
